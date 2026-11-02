@@ -1,0 +1,1 @@
+Change VSCode "Dart: CLI" from deubgger to terminal to pass in string data to input flow.
